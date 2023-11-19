@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #252B48;
+  --secondary: #EC7505;
+  --font_primary: #393939;
+  --background_secondary: #f0f0f0;
+  --warning: #e13c3c;
+  --cancel: #acacac;
+  --white: #ffffff;
+  --black: #000000;
+  --scroll_primary: #252B48;
+  --red-light: #ed8e87;
+
+  --font_regular: "Roboto";
+  --font_bold: "RobotoBold";
+
+  --font_header_size: 32px;
+  --font_menu_size: 24px;
+  --font_primary_size: 16px;
+  --font_subtext_size: 12px;
+
+  --paragraph_line_space: 19px;
+  --header_line_space: 30px;
+  --secondary_header_space: 20px;
+}

@@ -1,0 +1,19 @@
+.parent {
+    display: inline-block;
+    position: relative;
+}
+
+.notification {
+    display: block;
+}
+
+.badge {
+    top: -15px;
+    left: 15px;
+    padding: 3px 8px;
+    border-radius: 50%;
+    background: var(--color_4);
+    color: var(--white);
+    border: 0.5px solid var(--white);
+    position: absolute;
+}

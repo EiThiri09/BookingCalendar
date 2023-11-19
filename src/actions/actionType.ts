@@ -1,0 +1,2 @@
+export const ADD_NEW_BOOKING = 'ADD_NEW_BOOKING';
+export const GET_BOOKING_LIST = 'GET_BOOKING_LIST';
